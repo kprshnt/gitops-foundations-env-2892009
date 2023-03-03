@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -exec sed -i 's/{dockerHubUsername}/'$1'/g' {} +
+find . -type f -exec sed -i 's/oktadev10001/'$1'/g' {} +
